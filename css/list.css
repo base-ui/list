@@ -1,0 +1,9 @@
+.ui.list {
+  margin: 0;
+}
+.ui.list.inline {
+  list-style: none;
+}
+.ui.list.inline >* {
+  display: inline-block;
+}

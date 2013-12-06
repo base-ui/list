@@ -6,4 +6,5 @@
 }
 .ui.list.inline >* {
   display: inline-block;
+  vertical-align: bottom;
 }
